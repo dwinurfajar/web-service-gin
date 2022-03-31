@@ -11,4 +11,6 @@ $ go run .
 ```
 * buka browser
 * masukkan url berikut kemudian enter
+```
 $ localhost:8080
+```
