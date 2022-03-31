@@ -1,16 +1,15 @@
 # setup web-service-gin
-ikuti langkah berikut
 * install golang
-* pull projek
-* masuk ke direktori web-service-gin
-* jalankan perintah berikut di terminal:
+* pull project
+* go to directory web-service-gin
+* exec this command in terminal:
 ```
 $ go mod init web-service-gin
 $ go get .
 $ go run .
 ```
-* buka browser
-* masukkan url berikut kemudian enter
+* open browser
+* copy & paste this url to the browser
 ```
 $ localhost:8080
 ```
